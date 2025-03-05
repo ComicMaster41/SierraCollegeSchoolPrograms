@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/Lab4/src/Time.cpp
+Time.h
+/home/Lab4/src/Time.h
+
+/home/Lab4/src/Time.h
+
+/home/Lab4/src/main.cpp
+iostream
+-
+assert.h
+-
+Time.h
+/home/Lab4/src/Time.h
+

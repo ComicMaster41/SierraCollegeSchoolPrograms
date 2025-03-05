@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Lab5.dir/src/main.cpp.o CMakeFiles/Lab5.dir/src/Time.cpp.o  -o Lab5 

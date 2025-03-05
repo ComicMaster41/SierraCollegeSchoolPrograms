@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/Lab5/src/Time.cpp
+Time.h
+/home/Lab5/src/Time.h
+ostream
+-
+
+/home/Lab5/src/Time.h
+iostream
+-
+
+/home/Lab5/src/main.cpp
+iostream
+-
+sstream
+-
+assert.h
+-
+Time.h
+/home/Lab5/src/Time.h
+
